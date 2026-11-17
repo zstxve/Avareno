@@ -10,3 +10,24 @@ backend/second_memory.db
 backend/second_memory.db-journal
 uploads/*
 !uploads/.gitkeep
+
+# OS / AI tool configs (local only)
+.DS_Store
+.agent/
+.agents/
+.claude/
+.codebuddy/
+.codex/
+.codex-plugins/
+.continue/
+.cursor/
+.gemini/
+.github/prompts/
+.kiro/
+.opencode/
+.qoder/
+.roo/
+.trae/
+.windsurf/
+skills-lock.json
+backend/app/second_memory.db
